@@ -2,7 +2,6 @@
 CONFIG_PACKAGE_luci-app-openclash=y
 #增加插件
 CONFIG_PACKAGE_luci-app-theme-Argon=y
-CONFIG_PACKAGE_luci-app-turboacc=y
 CONFIG_PACKAGE_luci-app-upnp=y
 CONFIG_PACKAGE_luci-app-ddns=y
 CONFIG_PACKAGE_luci-app-diskman=y
